@@ -1,0 +1,7 @@
+vendor/*
+bin/*
+build/*
+!build/phpcs.xml
+!build/phpdox.xml
+!build/phpmd.xml
+!build/phpunit.xml
